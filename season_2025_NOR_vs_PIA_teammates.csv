@@ -1,0 +1,25 @@
+GP,Winner,Teammate_ahead,NOR_grid,NOR_finish,NOR_positions_gained,NOR_points,NOR_status,NOR_incidents_mentioned,PIA_grid,PIA_finish,PIA_positions_gained,PIA_points,PIA_status,PIA_incidents_mentioned,NOR_cum_points,PIA_cum_points
+Australian Grand Prix,NOR,NOR,1.0,1.0,0.0,25.0,Finished,0,2.0,9.0,-7.0,2.0,Finished,0,25.0,2.0
+Chinese Grand Prix,PIA,PIA,3.0,2.0,1.0,18.0,Finished,0,1.0,1.0,0.0,25.0,Finished,0,43.0,27.0
+Japanese Grand Prix,VER,NOR,2.0,2.0,0.0,18.0,Finished,0,3.0,3.0,0.0,15.0,Finished,0,61.0,42.0
+Bahrain Grand Prix,PIA,PIA,6.0,3.0,3.0,15.0,Finished,0,1.0,1.0,0.0,25.0,Finished,0,76.0,67.0
+Saudi Arabian Grand Prix,PIA,PIA,10.0,4.0,6.0,12.0,Finished,0,2.0,1.0,1.0,25.0,Finished,0,88.0,92.0
+Miami Grand Prix,PIA,PIA,2.0,2.0,0.0,18.0,Finished,0,4.0,1.0,3.0,25.0,Finished,0,106.0,117.0
+Emilia Romagna Grand Prix,VER,NOR,4.0,2.0,2.0,18.0,Finished,0,1.0,3.0,-2.0,15.0,Finished,0,124.0,132.0
+Monaco Grand Prix,NOR,NOR,1.0,1.0,0.0,25.0,Finished,0,3.0,3.0,0.0,15.0,Finished,0,149.0,147.0
+Spanish Grand Prix,PIA,PIA,2.0,2.0,0.0,18.0,Finished,0,1.0,1.0,0.0,25.0,Finished,0,167.0,172.0
+Canadian Grand Prix,RUS,PIA,7.0,18.0,-11.0,0.0,Retired,0,3.0,4.0,-1.0,12.0,Finished,0,167.0,184.0
+Austrian Grand Prix,NOR,NOR,1.0,1.0,0.0,25.0,Finished,0,3.0,2.0,1.0,18.0,Finished,0,192.0,202.0
+British Grand Prix,NOR,NOR,3.0,1.0,2.0,25.0,Finished,0,2.0,2.0,0.0,18.0,Finished,0,217.0,220.0
+Belgian Grand Prix,PIA,PIA,1.0,2.0,-1.0,18.0,Finished,0,2.0,1.0,1.0,25.0,Finished,0,235.0,245.0
+Hungarian Grand Prix,NOR,NOR,3.0,1.0,2.0,25.0,Finished,0,2.0,2.0,0.0,18.0,Finished,0,260.0,263.0
+Dutch Grand Prix,PIA,PIA,2.0,18.0,-16.0,0.0,Retired,0,1.0,1.0,0.0,25.0,Finished,0,260.0,288.0
+Italian Grand Prix,VER,NOR,2.0,2.0,0.0,18.0,Finished,0,3.0,3.0,0.0,15.0,Finished,0,278.0,303.0
+Azerbaijan Grand Prix,VER,NOR,7.0,7.0,0.0,6.0,Finished,0,9.0,20.0,-11.0,0.0,Retired,0,284.0,303.0
+Singapore Grand Prix,RUS,NOR,5.0,3.0,2.0,15.0,Finished,0,3.0,4.0,-1.0,12.0,Finished,0,299.0,315.0
+United States Grand Prix,VER,NOR,2.0,2.0,0.0,18.0,Finished,0,6.0,5.0,1.0,10.0,Finished,0,317.0,325.0
+Mexico City Grand Prix,NOR,NOR,1.0,1.0,0.0,25.0,Finished,0,7.0,5.0,2.0,10.0,Finished,0,342.0,335.0
+São Paulo Grand Prix,NOR,NOR,1.0,1.0,0.0,25.0,Finished,0,4.0,5.0,-1.0,10.0,Finished,0,367.0,345.0
+Las Vegas Grand Prix,VER,NOR,1.0,19.0,-18.0,0.0,Disqualified,0,5.0,20.0,-15.0,0.0,Disqualified,0,367.0,345.0
+Qatar Grand Prix,VER,PIA,2.0,4.0,-2.0,12.0,Finished,0,1.0,2.0,-1.0,18.0,Finished,0,379.0,363.0
+Abu Dhabi Grand Prix,VER,PIA,2.0,3.0,-1.0,15.0,Finished,0,3.0,2.0,1.0,18.0,Finished,0,394.0,381.0

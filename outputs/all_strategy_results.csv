@@ -1,0 +1,416 @@
+gp,pair,driver,strategy,total_time_s,is_optimal
+Chinese Grand Prix,NOR_vs_PIA,NOR,1-stop early,5541.26,False
+Chinese Grand Prix,NOR_vs_PIA,NOR,1-stop mid,5538.14,True
+Chinese Grand Prix,NOR_vs_PIA,NOR,1-stop late,5540.43,False
+Chinese Grand Prix,NOR_vs_PIA,NOR,2-stop equal,5543.58,False
+Chinese Grand Prix,NOR_vs_PIA,NOR,2-stop early,5544.54,False
+Chinese Grand Prix,NOR_vs_PIA,PIA,1-stop early,5517.25,False
+Chinese Grand Prix,NOR_vs_PIA,PIA,1-stop mid,5516.26,True
+Chinese Grand Prix,NOR_vs_PIA,PIA,1-stop late,5516.99,False
+Chinese Grand Prix,NOR_vs_PIA,PIA,2-stop equal,5533.01,False
+Chinese Grand Prix,NOR_vs_PIA,PIA,2-stop early,5533.31,False
+Chinese Grand Prix,NOR_vs_LEC,NOR,1-stop early,5541.26,False
+Chinese Grand Prix,NOR_vs_LEC,NOR,1-stop mid,5538.14,True
+Chinese Grand Prix,NOR_vs_LEC,NOR,1-stop late,5540.43,False
+Chinese Grand Prix,NOR_vs_LEC,NOR,2-stop equal,5543.58,False
+Chinese Grand Prix,NOR_vs_LEC,NOR,2-stop early,5544.54,False
+Chinese Grand Prix,NOR_vs_LEC,LEC,1-stop early,5544.38,False
+Chinese Grand Prix,NOR_vs_LEC,LEC,1-stop mid,5542.49,True
+Chinese Grand Prix,NOR_vs_LEC,LEC,1-stop late,5543.88,False
+Chinese Grand Prix,NOR_vs_LEC,LEC,2-stop equal,5554.44,False
+Chinese Grand Prix,NOR_vs_LEC,LEC,2-stop early,5555.02,False
+Japanese Grand Prix,NOR_vs_PIA,NOR,1-stop early,4972.14,True
+Japanese Grand Prix,NOR_vs_PIA,NOR,1-stop mid,4974.05,False
+Japanese Grand Prix,NOR_vs_PIA,NOR,1-stop late,4972.68,False
+Japanese Grand Prix,NOR_vs_PIA,NOR,2-stop equal,5006.69,False
+Japanese Grand Prix,NOR_vs_PIA,NOR,2-stop early,5006.01,False
+Japanese Grand Prix,NOR_vs_PIA,PIA,1-stop early,4980.26,True
+Japanese Grand Prix,NOR_vs_PIA,PIA,1-stop mid,4981.64,False
+Japanese Grand Prix,NOR_vs_PIA,PIA,1-stop late,4980.66,False
+Japanese Grand Prix,NOR_vs_PIA,PIA,2-stop equal,5011.3,False
+Japanese Grand Prix,NOR_vs_PIA,PIA,2-stop early,5010.8,False
+Japanese Grand Prix,NOR_vs_LEC,NOR,1-stop early,4972.14,True
+Japanese Grand Prix,NOR_vs_LEC,NOR,1-stop mid,4974.05,False
+Japanese Grand Prix,NOR_vs_LEC,NOR,1-stop late,4972.68,False
+Japanese Grand Prix,NOR_vs_LEC,NOR,2-stop equal,5006.69,False
+Japanese Grand Prix,NOR_vs_LEC,NOR,2-stop early,5006.01,False
+Japanese Grand Prix,NOR_vs_LEC,LEC,1-stop early,4987.15,True
+Japanese Grand Prix,NOR_vs_LEC,LEC,1-stop mid,4988.33,False
+Japanese Grand Prix,NOR_vs_LEC,LEC,1-stop late,4987.49,False
+Japanese Grand Prix,NOR_vs_LEC,LEC,2-stop equal,5016.88,False
+Japanese Grand Prix,NOR_vs_LEC,LEC,2-stop early,5016.46,False
+Bahrain Grand Prix,NOR_vs_PIA,NOR,1-stop early,5638.2,True
+Bahrain Grand Prix,NOR_vs_PIA,NOR,1-stop mid,5639.75,False
+Bahrain Grand Prix,NOR_vs_PIA,NOR,1-stop late,5638.59,False
+Bahrain Grand Prix,NOR_vs_PIA,NOR,2-stop equal,5669.26,False
+Bahrain Grand Prix,NOR_vs_PIA,NOR,2-stop early,5668.73,False
+Bahrain Grand Prix,NOR_vs_PIA,PIA,1-stop early,5657.12,False
+Bahrain Grand Prix,NOR_vs_PIA,PIA,1-stop mid,5652.98,True
+Bahrain Grand Prix,NOR_vs_PIA,PIA,1-stop late,5656.08,False
+Bahrain Grand Prix,NOR_vs_PIA,PIA,2-stop equal,5654.94,False
+Bahrain Grand Prix,NOR_vs_PIA,PIA,2-stop early,5656.34,False
+Bahrain Grand Prix,NOR_vs_LEC,NOR,1-stop early,5638.2,True
+Bahrain Grand Prix,NOR_vs_LEC,NOR,1-stop mid,5639.75,False
+Bahrain Grand Prix,NOR_vs_LEC,NOR,1-stop late,5638.59,False
+Bahrain Grand Prix,NOR_vs_LEC,NOR,2-stop equal,5669.26,False
+Bahrain Grand Prix,NOR_vs_LEC,NOR,2-stop early,5668.73,False
+Bahrain Grand Prix,NOR_vs_LEC,LEC,1-stop early,5655.72,True
+Bahrain Grand Prix,NOR_vs_LEC,LEC,1-stop mid,5656.43,False
+Bahrain Grand Prix,NOR_vs_LEC,LEC,1-stop late,5655.9,False
+Bahrain Grand Prix,NOR_vs_LEC,LEC,2-stop equal,5681.85,False
+Bahrain Grand Prix,NOR_vs_LEC,LEC,2-stop early,5681.61,False
+Saudi Arabian Grand Prix,NOR_vs_PIA,NOR,1-stop early,4745.85,True
+Saudi Arabian Grand Prix,NOR_vs_PIA,NOR,1-stop mid,4748.97,False
+Saudi Arabian Grand Prix,NOR_vs_PIA,NOR,1-stop late,4745.85,False
+Saudi Arabian Grand Prix,NOR_vs_PIA,NOR,2-stop equal,4788.92,False
+Saudi Arabian Grand Prix,NOR_vs_PIA,NOR,2-stop early,4787.62,False
+Saudi Arabian Grand Prix,NOR_vs_PIA,PIA,1-stop early,4724.1,False
+Saudi Arabian Grand Prix,NOR_vs_PIA,PIA,1-stop mid,4722.82,True
+Saudi Arabian Grand Prix,NOR_vs_PIA,PIA,1-stop late,4724.1,False
+Saudi Arabian Grand Prix,NOR_vs_PIA,PIA,2-stop equal,4737.49,False
+Saudi Arabian Grand Prix,NOR_vs_PIA,PIA,2-stop early,4738.02,False
+Saudi Arabian Grand Prix,NOR_vs_LEC,NOR,1-stop early,4745.85,True
+Saudi Arabian Grand Prix,NOR_vs_LEC,NOR,1-stop mid,4748.97,False
+Saudi Arabian Grand Prix,NOR_vs_LEC,NOR,1-stop late,4745.85,False
+Saudi Arabian Grand Prix,NOR_vs_LEC,NOR,2-stop equal,4788.92,False
+Saudi Arabian Grand Prix,NOR_vs_LEC,NOR,2-stop early,4787.62,False
+Saudi Arabian Grand Prix,NOR_vs_LEC,LEC,1-stop early,4736.91,True
+Saudi Arabian Grand Prix,NOR_vs_LEC,LEC,1-stop mid,4738.84,False
+Saudi Arabian Grand Prix,NOR_vs_LEC,LEC,1-stop late,4736.91,False
+Saudi Arabian Grand Prix,NOR_vs_LEC,LEC,2-stop equal,4771.93,False
+Saudi Arabian Grand Prix,NOR_vs_LEC,LEC,2-stop early,4771.12,False
+Miami Grand Prix,NOR_vs_PIA,NOR,1-stop early,5100.59,True
+Miami Grand Prix,NOR_vs_PIA,NOR,1-stop mid,5110.54,False
+Miami Grand Prix,NOR_vs_PIA,NOR,1-stop late,5103.08,False
+Miami Grand Prix,NOR_vs_PIA,NOR,2-stop equal,5180.67,False
+Miami Grand Prix,NOR_vs_PIA,NOR,2-stop early,5177.29,False
+Miami Grand Prix,NOR_vs_PIA,PIA,1-stop early,5071.42,True
+Miami Grand Prix,NOR_vs_PIA,PIA,1-stop mid,5083.45,False
+Miami Grand Prix,NOR_vs_PIA,PIA,1-stop late,5074.43,False
+Miami Grand Prix,NOR_vs_PIA,PIA,2-stop equal,5163.65,False
+Miami Grand Prix,NOR_vs_PIA,PIA,2-stop early,5159.57,False
+Miami Grand Prix,NOR_vs_LEC,NOR,1-stop early,5100.59,True
+Miami Grand Prix,NOR_vs_LEC,NOR,1-stop mid,5110.54,False
+Miami Grand Prix,NOR_vs_LEC,NOR,1-stop late,5103.08,False
+Miami Grand Prix,NOR_vs_LEC,NOR,2-stop equal,5180.67,False
+Miami Grand Prix,NOR_vs_LEC,NOR,2-stop early,5177.29,False
+Miami Grand Prix,NOR_vs_LEC,LEC,1-stop early,5290.68,True
+Miami Grand Prix,NOR_vs_LEC,LEC,1-stop mid,5291.09,False
+Miami Grand Prix,NOR_vs_LEC,LEC,1-stop late,5290.79,False
+Miami Grand Prix,NOR_vs_LEC,LEC,2-stop equal,5315.09,False
+Miami Grand Prix,NOR_vs_LEC,LEC,2-stop early,5314.95,False
+Emilia Romagna Grand Prix,NOR_vs_PIA,NOR,1-stop early,5153.59,True
+Emilia Romagna Grand Prix,NOR_vs_PIA,NOR,1-stop mid,5158.06,False
+Emilia Romagna Grand Prix,NOR_vs_PIA,NOR,1-stop late,5154.58,False
+Emilia Romagna Grand Prix,NOR_vs_PIA,NOR,2-stop equal,5200.64,False
+Emilia Romagna Grand Prix,NOR_vs_PIA,NOR,2-stop early,5198.89,False
+Emilia Romagna Grand Prix,NOR_vs_PIA,PIA,1-stop early,5113.18,True
+Emilia Romagna Grand Prix,NOR_vs_PIA,PIA,1-stop mid,5118.56,False
+Emilia Romagna Grand Prix,NOR_vs_PIA,PIA,1-stop late,5114.38,False
+Emilia Romagna Grand Prix,NOR_vs_PIA,PIA,2-stop equal,5165.31,False
+Emilia Romagna Grand Prix,NOR_vs_PIA,PIA,2-stop early,5163.22,False
+Emilia Romagna Grand Prix,NOR_vs_LEC,NOR,1-stop early,5153.59,True
+Emilia Romagna Grand Prix,NOR_vs_LEC,NOR,1-stop mid,5158.06,False
+Emilia Romagna Grand Prix,NOR_vs_LEC,NOR,1-stop late,5154.58,False
+Emilia Romagna Grand Prix,NOR_vs_LEC,NOR,2-stop equal,5200.64,False
+Emilia Romagna Grand Prix,NOR_vs_LEC,NOR,2-stop early,5198.89,False
+Emilia Romagna Grand Prix,NOR_vs_LEC,LEC,1-stop early,4844.69,True
+Emilia Romagna Grand Prix,NOR_vs_LEC,LEC,1-stop mid,4879.88,False
+Emilia Romagna Grand Prix,NOR_vs_LEC,LEC,1-stop late,4852.51,False
+Emilia Romagna Grand Prix,NOR_vs_LEC,LEC,2-stop equal,5063.65,False
+Emilia Romagna Grand Prix,NOR_vs_LEC,LEC,2-stop early,5049.96,False
+Monaco Grand Prix,NOR_vs_PIA,NOR,1-stop early,5732.3,True
+Monaco Grand Prix,NOR_vs_PIA,NOR,1-stop mid,5776.67,False
+Monaco Grand Prix,NOR_vs_PIA,NOR,1-stop late,5740.73,False
+Monaco Grand Prix,NOR_vs_PIA,NOR,2-stop equal,6023.63,False
+Monaco Grand Prix,NOR_vs_PIA,NOR,2-stop early,6007.21,False
+Monaco Grand Prix,NOR_vs_PIA,PIA,1-stop early,5701.17,True
+Monaco Grand Prix,NOR_vs_PIA,PIA,1-stop mid,5753.99,False
+Monaco Grand Prix,NOR_vs_PIA,PIA,1-stop late,5711.21,False
+Monaco Grand Prix,NOR_vs_PIA,PIA,2-stop equal,6043.76,False
+Monaco Grand Prix,NOR_vs_PIA,PIA,2-stop early,6024.22,False
+Monaco Grand Prix,NOR_vs_LEC,NOR,1-stop early,5732.3,True
+Monaco Grand Prix,NOR_vs_LEC,NOR,1-stop mid,5776.67,False
+Monaco Grand Prix,NOR_vs_LEC,NOR,1-stop late,5740.73,False
+Monaco Grand Prix,NOR_vs_LEC,NOR,2-stop equal,6023.63,False
+Monaco Grand Prix,NOR_vs_LEC,NOR,2-stop early,6007.21,False
+Monaco Grand Prix,NOR_vs_LEC,LEC,1-stop early,5800.54,True
+Monaco Grand Prix,NOR_vs_LEC,LEC,1-stop mid,5840.24,False
+Monaco Grand Prix,NOR_vs_LEC,LEC,1-stop late,5808.08,False
+Monaco Grand Prix,NOR_vs_LEC,LEC,2-stop equal,6063.52,False
+Monaco Grand Prix,NOR_vs_LEC,LEC,2-stop early,6048.83,False
+Spanish Grand Prix,NOR_vs_PIA,NOR,1-stop early,5354.7,True
+Spanish Grand Prix,NOR_vs_PIA,NOR,1-stop mid,5357.14,False
+Spanish Grand Prix,NOR_vs_PIA,NOR,1-stop late,5355.27,False
+Spanish Grand Prix,NOR_vs_PIA,NOR,2-stop equal,5392.99,False
+Spanish Grand Prix,NOR_vs_PIA,NOR,2-stop early,5391.96,False
+Spanish Grand Prix,NOR_vs_PIA,PIA,1-stop early,5362.36,False
+Spanish Grand Prix,NOR_vs_PIA,PIA,1-stop mid,5361.73,True
+Spanish Grand Prix,NOR_vs_PIA,PIA,1-stop late,5362.21,False
+Spanish Grand Prix,NOR_vs_PIA,PIA,2-stop equal,5380.14,False
+Spanish Grand Prix,NOR_vs_PIA,PIA,2-stop early,5380.41,False
+Spanish Grand Prix,NOR_vs_LEC,NOR,1-stop early,5354.7,True
+Spanish Grand Prix,NOR_vs_LEC,NOR,1-stop mid,5357.14,False
+Spanish Grand Prix,NOR_vs_LEC,NOR,1-stop late,5355.27,False
+Spanish Grand Prix,NOR_vs_LEC,NOR,2-stop equal,5392.99,False
+Spanish Grand Prix,NOR_vs_LEC,NOR,2-stop early,5391.96,False
+Spanish Grand Prix,NOR_vs_LEC,LEC,1-stop early,5362.24,True
+Spanish Grand Prix,NOR_vs_LEC,LEC,1-stop mid,5367.66,False
+Spanish Grand Prix,NOR_vs_LEC,LEC,1-stop late,5363.51,False
+Spanish Grand Prix,NOR_vs_LEC,LEC,2-stop equal,5420.39,False
+Spanish Grand Prix,NOR_vs_LEC,LEC,2-stop early,5418.1,False
+Canadian Grand Prix,NOR_vs_PIA,NOR,1-stop early,5372.24,True
+Canadian Grand Prix,NOR_vs_PIA,NOR,1-stop mid,5375.43,False
+Canadian Grand Prix,NOR_vs_PIA,NOR,1-stop late,5372.91,False
+Canadian Grand Prix,NOR_vs_PIA,NOR,2-stop equal,5413.51,False
+Canadian Grand Prix,NOR_vs_PIA,NOR,2-stop early,5412.33,False
+Canadian Grand Prix,NOR_vs_PIA,PIA,1-stop early,5410.63,False
+Canadian Grand Prix,NOR_vs_PIA,PIA,1-stop mid,5408.83,True
+Canadian Grand Prix,NOR_vs_PIA,PIA,1-stop late,5410.25,False
+Canadian Grand Prix,NOR_vs_PIA,PIA,2-stop equal,5421.75,False
+Canadian Grand Prix,NOR_vs_PIA,PIA,2-stop early,5422.41,False
+Canadian Grand Prix,NOR_vs_LEC,NOR,1-stop early,5372.24,True
+Canadian Grand Prix,NOR_vs_LEC,NOR,1-stop mid,5375.43,False
+Canadian Grand Prix,NOR_vs_LEC,NOR,1-stop late,5372.91,False
+Canadian Grand Prix,NOR_vs_LEC,NOR,2-stop equal,5413.51,False
+Canadian Grand Prix,NOR_vs_LEC,NOR,2-stop early,5412.33,False
+Canadian Grand Prix,NOR_vs_LEC,LEC,1-stop early,5370.76,True
+Canadian Grand Prix,NOR_vs_LEC,LEC,1-stop mid,5375.82,False
+Canadian Grand Prix,NOR_vs_LEC,LEC,1-stop late,5371.82,False
+Canadian Grand Prix,NOR_vs_LEC,LEC,2-stop equal,5423.29,False
+Canadian Grand Prix,NOR_vs_LEC,LEC,2-stop early,5421.42,False
+Austrian Grand Prix,NOR_vs_PIA,NOR,1-stop early,5003.84,False
+Austrian Grand Prix,NOR_vs_PIA,NOR,1-stop mid,4994.84,False
+Austrian Grand Prix,NOR_vs_PIA,NOR,1-stop late,5001.95,False
+Austrian Grand Prix,NOR_vs_PIA,NOR,2-stop equal,4971.49,True
+Austrian Grand Prix,NOR_vs_PIA,NOR,2-stop early,4974.83,False
+Austrian Grand Prix,NOR_vs_PIA,PIA,1-stop early,4986.34,False
+Austrian Grand Prix,NOR_vs_PIA,PIA,1-stop mid,4979.61,False
+Austrian Grand Prix,NOR_vs_PIA,PIA,1-stop late,4984.93,False
+Austrian Grand Prix,NOR_vs_PIA,PIA,2-stop equal,4967.7,True
+Austrian Grand Prix,NOR_vs_PIA,PIA,2-stop early,4970.19,False
+Austrian Grand Prix,NOR_vs_LEC,NOR,1-stop early,5003.84,False
+Austrian Grand Prix,NOR_vs_LEC,NOR,1-stop mid,4994.84,False
+Austrian Grand Prix,NOR_vs_LEC,NOR,1-stop late,5001.95,False
+Austrian Grand Prix,NOR_vs_LEC,NOR,2-stop equal,4971.49,True
+Austrian Grand Prix,NOR_vs_LEC,NOR,2-stop early,4974.83,False
+Austrian Grand Prix,NOR_vs_LEC,LEC,1-stop early,4999.86,False
+Austrian Grand Prix,NOR_vs_LEC,LEC,1-stop mid,4994.82,False
+Austrian Grand Prix,NOR_vs_LEC,LEC,1-stop late,4998.81,False
+Austrian Grand Prix,NOR_vs_LEC,LEC,2-stop equal,4991.43,True
+Austrian Grand Prix,NOR_vs_LEC,LEC,2-stop early,4993.3,False
+Hungarian Grand Prix,NOR_vs_PIA,NOR,1-stop early,5775.23,True
+Hungarian Grand Prix,NOR_vs_PIA,NOR,1-stop mid,5776.3,False
+Hungarian Grand Prix,NOR_vs_PIA,NOR,1-stop late,5775.45,False
+Hungarian Grand Prix,NOR_vs_PIA,NOR,2-stop equal,5803.69,False
+Hungarian Grand Prix,NOR_vs_PIA,NOR,2-stop early,5803.29,False
+Hungarian Grand Prix,NOR_vs_PIA,PIA,1-stop early,5734.32,True
+Hungarian Grand Prix,NOR_vs_PIA,PIA,1-stop mid,5739.85,False
+Hungarian Grand Prix,NOR_vs_PIA,PIA,1-stop late,5735.48,False
+Hungarian Grand Prix,NOR_vs_PIA,PIA,2-stop equal,5789.72,False
+Hungarian Grand Prix,NOR_vs_PIA,PIA,2-stop early,5787.67,False
+Hungarian Grand Prix,NOR_vs_LEC,NOR,1-stop early,5775.23,True
+Hungarian Grand Prix,NOR_vs_LEC,NOR,1-stop mid,5776.3,False
+Hungarian Grand Prix,NOR_vs_LEC,NOR,1-stop late,5775.45,False
+Hungarian Grand Prix,NOR_vs_LEC,NOR,2-stop equal,5803.69,False
+Hungarian Grand Prix,NOR_vs_LEC,NOR,2-stop early,5803.29,False
+Hungarian Grand Prix,NOR_vs_LEC,LEC,1-stop early,5761.33,True
+Hungarian Grand Prix,NOR_vs_LEC,LEC,1-stop mid,5762.8,False
+Hungarian Grand Prix,NOR_vs_LEC,LEC,1-stop late,5761.64,False
+Hungarian Grand Prix,NOR_vs_LEC,LEC,2-stop equal,5792.2,False
+Hungarian Grand Prix,NOR_vs_LEC,LEC,2-stop early,5791.66,False
+Dutch Grand Prix,NOR_vs_PIA,NOR,1-stop early,5420.11,True
+Dutch Grand Prix,NOR_vs_PIA,NOR,1-stop mid,5426.9,False
+Dutch Grand Prix,NOR_vs_PIA,NOR,1-stop late,5421.54,False
+Dutch Grand Prix,NOR_vs_PIA,NOR,2-stop equal,5485.09,False
+Dutch Grand Prix,NOR_vs_PIA,NOR,2-stop early,5482.83,False
+Dutch Grand Prix,NOR_vs_PIA,PIA,1-stop early,5435.47,True
+Dutch Grand Prix,NOR_vs_PIA,PIA,1-stop mid,5438.56,False
+Dutch Grand Prix,NOR_vs_PIA,PIA,1-stop late,5436.12,False
+Dutch Grand Prix,NOR_vs_PIA,PIA,2-stop equal,5477.02,False
+Dutch Grand Prix,NOR_vs_PIA,PIA,2-stop early,5475.99,False
+Dutch Grand Prix,NOR_vs_LEC,NOR,1-stop early,5420.11,True
+Dutch Grand Prix,NOR_vs_LEC,NOR,1-stop mid,5426.9,False
+Dutch Grand Prix,NOR_vs_LEC,NOR,1-stop late,5421.54,False
+Dutch Grand Prix,NOR_vs_LEC,NOR,2-stop equal,5485.09,False
+Dutch Grand Prix,NOR_vs_LEC,NOR,2-stop early,5482.83,False
+Dutch Grand Prix,NOR_vs_LEC,LEC,1-stop early,5492.49,True
+Dutch Grand Prix,NOR_vs_LEC,LEC,1-stop mid,5497.02,False
+Dutch Grand Prix,NOR_vs_LEC,LEC,1-stop late,5493.44,False
+Dutch Grand Prix,NOR_vs_LEC,LEC,2-stop equal,5543.22,False
+Dutch Grand Prix,NOR_vs_LEC,LEC,2-stop early,5541.7,False
+Italian Grand Prix,NOR_vs_PIA,NOR,1-stop early,4441.66,True
+Italian Grand Prix,NOR_vs_PIA,NOR,1-stop mid,4442.95,False
+Italian Grand Prix,NOR_vs_PIA,NOR,1-stop late,4442.03,False
+Italian Grand Prix,NOR_vs_PIA,NOR,2-stop equal,4472.11,False
+Italian Grand Prix,NOR_vs_PIA,NOR,2-stop early,4471.65,False
+Italian Grand Prix,NOR_vs_PIA,PIA,1-stop early,4450.75,True
+Italian Grand Prix,NOR_vs_PIA,PIA,1-stop mid,4452.75,False
+Italian Grand Prix,NOR_vs_PIA,PIA,1-stop late,4451.33,False
+Italian Grand Prix,NOR_vs_PIA,PIA,2-stop equal,4485.85,False
+Italian Grand Prix,NOR_vs_PIA,PIA,2-stop early,4485.13,False
+Italian Grand Prix,NOR_vs_LEC,NOR,1-stop early,4441.66,True
+Italian Grand Prix,NOR_vs_LEC,NOR,1-stop mid,4442.95,False
+Italian Grand Prix,NOR_vs_LEC,NOR,1-stop late,4442.03,False
+Italian Grand Prix,NOR_vs_LEC,NOR,2-stop equal,4472.11,False
+Italian Grand Prix,NOR_vs_LEC,NOR,2-stop early,4471.65,False
+Italian Grand Prix,NOR_vs_LEC,LEC,1-stop early,4465.54,True
+Italian Grand Prix,NOR_vs_LEC,LEC,1-stop mid,4468.28,False
+Italian Grand Prix,NOR_vs_LEC,LEC,1-stop late,4466.32,False
+Italian Grand Prix,NOR_vs_LEC,LEC,2-stop equal,4505.51,False
+Italian Grand Prix,NOR_vs_LEC,LEC,2-stop early,4504.53,False
+Azerbaijan Grand Prix,NOR_vs_PIA,NOR,1-stop early,5473.21,True
+Azerbaijan Grand Prix,NOR_vs_PIA,NOR,1-stop mid,5477.29,False
+Azerbaijan Grand Prix,NOR_vs_PIA,NOR,1-stop late,5474.38,False
+Azerbaijan Grand Prix,NOR_vs_PIA,NOR,2-stop equal,5520.33,False
+Azerbaijan Grand Prix,NOR_vs_PIA,NOR,2-stop early,5518.49,False
+Azerbaijan Grand Prix,NOR_vs_LEC,NOR,1-stop early,5473.21,True
+Azerbaijan Grand Prix,NOR_vs_LEC,NOR,1-stop mid,5477.29,False
+Azerbaijan Grand Prix,NOR_vs_LEC,NOR,1-stop late,5474.38,False
+Azerbaijan Grand Prix,NOR_vs_LEC,NOR,2-stop equal,5520.33,False
+Azerbaijan Grand Prix,NOR_vs_LEC,NOR,2-stop early,5518.49,False
+Azerbaijan Grand Prix,NOR_vs_LEC,LEC,1-stop early,5485.46,True
+Azerbaijan Grand Prix,NOR_vs_LEC,LEC,1-stop mid,5494.58,False
+Azerbaijan Grand Prix,NOR_vs_LEC,LEC,1-stop late,5488.07,False
+Azerbaijan Grand Prix,NOR_vs_LEC,LEC,2-stop equal,5563.71,False
+Azerbaijan Grand Prix,NOR_vs_LEC,LEC,2-stop early,5559.58,False
+Singapore Grand Prix,NOR_vs_PIA,NOR,1-stop early,6045.4,True
+Singapore Grand Prix,NOR_vs_PIA,NOR,1-stop mid,6048.51,False
+Singapore Grand Prix,NOR_vs_PIA,NOR,1-stop late,6046.13,False
+Singapore Grand Prix,NOR_vs_PIA,NOR,2-stop equal,6086.0,False
+Singapore Grand Prix,NOR_vs_PIA,NOR,2-stop early,6084.89,False
+Singapore Grand Prix,NOR_vs_PIA,PIA,1-stop early,6050.04,True
+Singapore Grand Prix,NOR_vs_PIA,PIA,1-stop mid,6053.91,False
+Singapore Grand Prix,NOR_vs_PIA,PIA,1-stop late,6050.94,False
+Singapore Grand Prix,NOR_vs_PIA,PIA,2-stop equal,6095.19,False
+Singapore Grand Prix,NOR_vs_PIA,PIA,2-stop early,6093.8,False
+Singapore Grand Prix,NOR_vs_LEC,NOR,1-stop early,6045.4,True
+Singapore Grand Prix,NOR_vs_LEC,NOR,1-stop mid,6048.51,False
+Singapore Grand Prix,NOR_vs_LEC,NOR,1-stop late,6046.13,False
+Singapore Grand Prix,NOR_vs_LEC,NOR,2-stop equal,6086.0,False
+Singapore Grand Prix,NOR_vs_LEC,NOR,2-stop early,6084.89,False
+Singapore Grand Prix,NOR_vs_LEC,LEC,1-stop early,6073.2,True
+Singapore Grand Prix,NOR_vs_LEC,LEC,1-stop mid,6075.42,False
+Singapore Grand Prix,NOR_vs_LEC,LEC,1-stop late,6073.72,False
+Singapore Grand Prix,NOR_vs_LEC,LEC,2-stop equal,6108.49,False
+Singapore Grand Prix,NOR_vs_LEC,LEC,2-stop early,6107.69,False
+United States Grand Prix,NOR_vs_PIA,NOR,1-stop early,5634.96,True
+United States Grand Prix,NOR_vs_PIA,NOR,1-stop mid,5637.13,False
+United States Grand Prix,NOR_vs_PIA,NOR,1-stop late,5635.54,False
+United States Grand Prix,NOR_vs_PIA,NOR,2-stop equal,5670.66,False
+United States Grand Prix,NOR_vs_PIA,NOR,2-stop early,5669.99,False
+United States Grand Prix,NOR_vs_PIA,PIA,1-stop early,5655.84,True
+United States Grand Prix,NOR_vs_PIA,PIA,1-stop mid,5657.35,False
+United States Grand Prix,NOR_vs_PIA,PIA,1-stop late,5656.24,False
+United States Grand Prix,NOR_vs_PIA,PIA,2-stop equal,5687.34,False
+United States Grand Prix,NOR_vs_PIA,PIA,2-stop early,5686.88,False
+United States Grand Prix,NOR_vs_LEC,NOR,1-stop early,5634.96,True
+United States Grand Prix,NOR_vs_LEC,NOR,1-stop mid,5637.13,False
+United States Grand Prix,NOR_vs_LEC,NOR,1-stop late,5635.54,False
+United States Grand Prix,NOR_vs_LEC,NOR,2-stop equal,5670.66,False
+United States Grand Prix,NOR_vs_LEC,NOR,2-stop early,5669.99,False
+United States Grand Prix,NOR_vs_LEC,LEC,1-stop early,5650.19,True
+United States Grand Prix,NOR_vs_LEC,LEC,1-stop mid,5650.89,False
+United States Grand Prix,NOR_vs_LEC,LEC,1-stop late,5650.38,False
+United States Grand Prix,NOR_vs_LEC,LEC,2-stop equal,5676.62,False
+United States Grand Prix,NOR_vs_LEC,LEC,2-stop early,5676.41,False
+Mexico City Grand Prix,NOR_vs_PIA,NOR,1-stop early,5889.46,False
+Mexico City Grand Prix,NOR_vs_PIA,NOR,1-stop mid,5889.12,True
+Mexico City Grand Prix,NOR_vs_PIA,NOR,1-stop late,5889.4,False
+Mexico City Grand Prix,NOR_vs_PIA,NOR,2-stop equal,5909.5,False
+Mexico City Grand Prix,NOR_vs_PIA,NOR,2-stop early,5909.63,False
+Mexico City Grand Prix,NOR_vs_PIA,PIA,1-stop early,5941.4,True
+Mexico City Grand Prix,NOR_vs_PIA,PIA,1-stop mid,5943.05,False
+Mexico City Grand Prix,NOR_vs_PIA,PIA,1-stop late,5941.73,False
+Mexico City Grand Prix,NOR_vs_PIA,PIA,2-stop equal,5972.76,False
+Mexico City Grand Prix,NOR_vs_PIA,PIA,2-stop early,5972.16,False
+Mexico City Grand Prix,NOR_vs_LEC,NOR,1-stop early,5889.46,False
+Mexico City Grand Prix,NOR_vs_LEC,NOR,1-stop mid,5889.12,True
+Mexico City Grand Prix,NOR_vs_LEC,NOR,1-stop late,5889.4,False
+Mexico City Grand Prix,NOR_vs_LEC,NOR,2-stop equal,5909.5,False
+Mexico City Grand Prix,NOR_vs_LEC,NOR,2-stop early,5909.63,False
+Mexico City Grand Prix,NOR_vs_LEC,LEC,1-stop early,5928.96,False
+Mexico City Grand Prix,NOR_vs_LEC,LEC,1-stop mid,5927.65,True
+Mexico City Grand Prix,NOR_vs_LEC,LEC,1-stop late,5928.7,False
+Mexico City Grand Prix,NOR_vs_LEC,LEC,2-stop equal,5943.54,False
+Mexico City Grand Prix,NOR_vs_LEC,LEC,2-stop early,5944.02,False
+São Paulo Grand Prix,NOR_vs_PIA,NOR,1-stop early,5329.01,True
+São Paulo Grand Prix,NOR_vs_PIA,NOR,1-stop mid,5330.69,False
+São Paulo Grand Prix,NOR_vs_PIA,NOR,1-stop late,5329.34,False
+São Paulo Grand Prix,NOR_vs_PIA,NOR,2-stop equal,5360.53,False
+São Paulo Grand Prix,NOR_vs_PIA,NOR,2-stop early,5359.92,False
+São Paulo Grand Prix,NOR_vs_PIA,PIA,1-stop early,5365.22,True
+São Paulo Grand Prix,NOR_vs_PIA,PIA,1-stop mid,5367.44,False
+São Paulo Grand Prix,NOR_vs_PIA,PIA,1-stop late,5365.66,False
+São Paulo Grand Prix,NOR_vs_PIA,PIA,2-stop equal,5399.77,False
+São Paulo Grand Prix,NOR_vs_PIA,PIA,2-stop early,5398.96,False
+São Paulo Grand Prix,NOR_vs_LEC,NOR,1-stop early,5329.01,True
+São Paulo Grand Prix,NOR_vs_LEC,NOR,1-stop mid,5330.69,False
+São Paulo Grand Prix,NOR_vs_LEC,NOR,1-stop late,5329.34,False
+São Paulo Grand Prix,NOR_vs_LEC,NOR,2-stop equal,5360.53,False
+São Paulo Grand Prix,NOR_vs_LEC,NOR,2-stop early,5359.92,False
+São Paulo Grand Prix,NOR_vs_LEC,LEC,1-stop early,18221.94,False
+São Paulo Grand Prix,NOR_vs_LEC,LEC,1-stop mid,17401.25,False
+São Paulo Grand Prix,NOR_vs_LEC,LEC,1-stop late,18057.81,False
+São Paulo Grand Prix,NOR_vs_LEC,LEC,2-stop equal,13602.48,True
+São Paulo Grand Prix,NOR_vs_LEC,LEC,2-stop early,13903.4,False
+Las Vegas Grand Prix,NOR_vs_PIA,NOR,1-stop early,4846.22,True
+Las Vegas Grand Prix,NOR_vs_PIA,NOR,1-stop mid,4855.51,False
+Las Vegas Grand Prix,NOR_vs_PIA,NOR,1-stop late,4846.22,False
+Las Vegas Grand Prix,NOR_vs_PIA,NOR,2-stop equal,4930.94,False
+Las Vegas Grand Prix,NOR_vs_PIA,NOR,2-stop early,4927.07,False
+Las Vegas Grand Prix,NOR_vs_PIA,PIA,1-stop early,4876.9,True
+Las Vegas Grand Prix,NOR_vs_PIA,PIA,1-stop mid,4886.87,False
+Las Vegas Grand Prix,NOR_vs_PIA,PIA,1-stop late,4876.9,False
+Las Vegas Grand Prix,NOR_vs_PIA,PIA,2-stop equal,4966.19,False
+Las Vegas Grand Prix,NOR_vs_PIA,PIA,2-stop early,4962.03,False
+Las Vegas Grand Prix,NOR_vs_LEC,NOR,1-stop early,4846.22,True
+Las Vegas Grand Prix,NOR_vs_LEC,NOR,1-stop mid,4855.51,False
+Las Vegas Grand Prix,NOR_vs_LEC,NOR,1-stop late,4846.22,False
+Las Vegas Grand Prix,NOR_vs_LEC,NOR,2-stop equal,4930.94,False
+Las Vegas Grand Prix,NOR_vs_LEC,NOR,2-stop early,4927.07,False
+Las Vegas Grand Prix,NOR_vs_LEC,LEC,1-stop early,4887.73,True
+Las Vegas Grand Prix,NOR_vs_LEC,LEC,1-stop mid,4895.39,False
+Las Vegas Grand Prix,NOR_vs_LEC,LEC,1-stop late,4887.73,False
+Las Vegas Grand Prix,NOR_vs_LEC,LEC,2-stop equal,4961.45,False
+Las Vegas Grand Prix,NOR_vs_LEC,LEC,2-stop early,4958.26,False
+Qatar Grand Prix,NOR_vs_PIA,NOR,1-stop early,4958.74,True
+Qatar Grand Prix,NOR_vs_PIA,NOR,1-stop mid,4968.82,False
+Qatar Grand Prix,NOR_vs_PIA,NOR,1-stop late,4961.26,False
+Qatar Grand Prix,NOR_vs_PIA,NOR,2-stop equal,5039.62,False
+Qatar Grand Prix,NOR_vs_PIA,NOR,2-stop early,5036.2,False
+Qatar Grand Prix,NOR_vs_PIA,PIA,1-stop early,4936.97,True
+Qatar Grand Prix,NOR_vs_PIA,PIA,1-stop mid,4945.01,False
+Qatar Grand Prix,NOR_vs_PIA,PIA,1-stop late,4938.98,False
+Qatar Grand Prix,NOR_vs_PIA,PIA,2-stop equal,5005.94,False
+Qatar Grand Prix,NOR_vs_PIA,PIA,2-stop early,5003.21,False
+Qatar Grand Prix,NOR_vs_LEC,NOR,1-stop early,4958.74,True
+Qatar Grand Prix,NOR_vs_LEC,NOR,1-stop mid,4968.82,False
+Qatar Grand Prix,NOR_vs_LEC,NOR,1-stop late,4961.26,False
+Qatar Grand Prix,NOR_vs_LEC,NOR,2-stop equal,5039.62,False
+Qatar Grand Prix,NOR_vs_LEC,NOR,2-stop early,5036.2,False
+Qatar Grand Prix,NOR_vs_LEC,LEC,1-stop early,4417.9,True
+Qatar Grand Prix,NOR_vs_LEC,LEC,1-stop mid,4474.78,False
+Qatar Grand Prix,NOR_vs_LEC,LEC,1-stop late,4432.12,False
+Qatar Grand Prix,NOR_vs_LEC,LEC,2-stop equal,4772.0,False
+Qatar Grand Prix,NOR_vs_LEC,LEC,2-stop early,4752.7,False
+Abu Dhabi Grand Prix,NOR_vs_PIA,NOR,1-stop early,5224.21,True
+Abu Dhabi Grand Prix,NOR_vs_PIA,NOR,1-stop mid,5224.65,False
+Abu Dhabi Grand Prix,NOR_vs_PIA,NOR,1-stop late,5224.33,False
+Abu Dhabi Grand Prix,NOR_vs_PIA,NOR,2-stop equal,5249.16,False
+Abu Dhabi Grand Prix,NOR_vs_PIA,NOR,2-stop early,5248.97,False
+Abu Dhabi Grand Prix,NOR_vs_PIA,PIA,1-stop early,5213.22,True
+Abu Dhabi Grand Prix,NOR_vs_PIA,PIA,1-stop mid,5214.09,False
+Abu Dhabi Grand Prix,NOR_vs_PIA,PIA,1-stop late,5213.45,False
+Abu Dhabi Grand Prix,NOR_vs_PIA,PIA,2-stop equal,5241.08,False
+Abu Dhabi Grand Prix,NOR_vs_PIA,PIA,2-stop early,5240.71,False
+Abu Dhabi Grand Prix,NOR_vs_LEC,NOR,1-stop early,5224.21,True
+Abu Dhabi Grand Prix,NOR_vs_LEC,NOR,1-stop mid,5224.65,False
+Abu Dhabi Grand Prix,NOR_vs_LEC,NOR,1-stop late,5224.33,False
+Abu Dhabi Grand Prix,NOR_vs_LEC,NOR,2-stop equal,5249.16,False
+Abu Dhabi Grand Prix,NOR_vs_LEC,NOR,2-stop early,5248.97,False
+Abu Dhabi Grand Prix,NOR_vs_LEC,LEC,1-stop early,5237.23,False
+Abu Dhabi Grand Prix,NOR_vs_LEC,LEC,1-stop mid,5236.84,True
+Abu Dhabi Grand Prix,NOR_vs_LEC,LEC,1-stop late,5237.13,False
+Abu Dhabi Grand Prix,NOR_vs_LEC,LEC,2-stop equal,5256.6,False
+Abu Dhabi Grand Prix,NOR_vs_LEC,LEC,2-stop early,5256.77,False

@@ -1,0 +1,210 @@
+gp,pair,driver,stint,compound,n_laps,deg_ms_per_lap,r2,base_pace_s
+Chinese Grand Prix,NOR_vs_PIA,NOR,1,MEDIUM,13,63.69,0.701,97.579
+Chinese Grand Prix,NOR_vs_PIA,NOR,2,HARD,38,-47.59,0.645,97.635
+Chinese Grand Prix,NOR_vs_PIA,PIA,1,MEDIUM,13,20.19,0.096,97.819
+Chinese Grand Prix,NOR_vs_PIA,PIA,2,HARD,41,-40.55,0.697,97.511
+Chinese Grand Prix,NOR_vs_LEC,NOR,1,MEDIUM,13,63.69,0.701,97.579
+Chinese Grand Prix,NOR_vs_LEC,NOR,2,HARD,38,-47.59,0.645,97.635
+Chinese Grand Prix,NOR_vs_LEC,LEC,1,MEDIUM,13,38.63,0.293,98.02
+Chinese Grand Prix,NOR_vs_LEC,LEC,2,HARD,40,-16.85,0.167,97.367
+Japanese Grand Prix,NOR_vs_PIA,NOR,1,MEDIUM,19,-45.66,0.873,94.063
+Japanese Grand Prix,NOR_vs_PIA,NOR,2,HARD,31,-43.26,0.847,92.515
+Japanese Grand Prix,NOR_vs_PIA,PIA,1,MEDIUM,18,-32.85,0.429,94.03
+Japanese Grand Prix,NOR_vs_PIA,PIA,2,HARD,32,-52.42,0.688,92.727
+Japanese Grand Prix,NOR_vs_LEC,NOR,1,MEDIUM,19,-45.66,0.873,94.063
+Japanese Grand Prix,NOR_vs_LEC,NOR,2,HARD,31,-43.26,0.847,92.515
+Japanese Grand Prix,NOR_vs_LEC,LEC,1,MEDIUM,19,-28.11,0.611,94.091
+Japanese Grand Prix,NOR_vs_LEC,LEC,2,HARD,31,-38.88,0.536,92.752
+Bahrain Grand Prix,NOR_vs_PIA,NOR,1,SOFT,9,-27.72,0.011,98.966
+Bahrain Grand Prix,NOR_vs_PIA,NOR,2,MEDIUM,20,10.16,0.02,97.891
+Bahrain Grand Prix,NOR_vs_PIA,NOR,3,MEDIUM,22,56.34,0.272,96.0
+Bahrain Grand Prix,NOR_vs_PIA,PIA,1,SOFT,13,73.95,0.493,97.698
+Bahrain Grand Prix,NOR_vs_PIA,PIA,2,MEDIUM,16,-11.58,0.063,97.786
+Bahrain Grand Prix,NOR_vs_PIA,PIA,3,MEDIUM,22,28.98,0.284,95.725
+Bahrain Grand Prix,NOR_vs_LEC,NOR,1,SOFT,9,-27.72,0.011,98.966
+Bahrain Grand Prix,NOR_vs_LEC,NOR,2,MEDIUM,20,10.16,0.02,97.891
+Bahrain Grand Prix,NOR_vs_LEC,NOR,3,MEDIUM,22,56.34,0.272,96.0
+Bahrain Grand Prix,NOR_vs_LEC,LEC,1,MEDIUM,16,-12.63,0.007,99.036
+Bahrain Grand Prix,NOR_vs_LEC,LEC,2,MEDIUM,13,70.88,0.572,97.044
+Bahrain Grand Prix,NOR_vs_LEC,LEC,3,HARD,22,98.95,0.837,95.541
+Saudi Arabian Grand Prix,NOR_vs_PIA,NOR,1,HARD,30,-86.74,0.7,95.667
+Saudi Arabian Grand Prix,NOR_vs_PIA,NOR,2,MEDIUM,15,1.52,0.001,92.147
+Saudi Arabian Grand Prix,NOR_vs_PIA,PIA,1,MEDIUM,15,35.42,0.301,93.556
+Saudi Arabian Grand Prix,NOR_vs_PIA,PIA,2,HARD,30,-21.13,0.268,93.224
+Saudi Arabian Grand Prix,NOR_vs_LEC,NOR,1,HARD,30,-86.74,0.7,95.667
+Saudi Arabian Grand Prix,NOR_vs_LEC,NOR,2,MEDIUM,15,1.52,0.001,92.147
+Saudi Arabian Grand Prix,NOR_vs_LEC,LEC,1,MEDIUM,25,-53.55,0.568,95.033
+Saudi Arabian Grand Prix,NOR_vs_LEC,LEC,2,HARD,20,-3.38,0.007,92.511
+Miami Grand Prix,NOR_vs_PIA,NOR,1,MEDIUM,6,-177.6,0.656,91.893
+Miami Grand Prix,NOR_vs_PIA,NOR,2,HARD,24,-14.99,0.012,90.586
+Miami Grand Prix,NOR_vs_PIA,PIA,1,MEDIUM,6,-214.76,0.748,91.966
+Miami Grand Prix,NOR_vs_PIA,PIA,2,HARD,24,-61.41,0.074,91.467
+Miami Grand Prix,NOR_vs_LEC,NOR,1,MEDIUM,6,-177.6,0.656,91.893
+Miami Grand Prix,NOR_vs_LEC,NOR,2,HARD,24,-14.99,0.012,90.586
+Miami Grand Prix,NOR_vs_LEC,LEC,1,MEDIUM,6,-7.37,0.001,92.549
+Miami Grand Prix,NOR_vs_LEC,LEC,2,HARD,24,-20.45,0.142,91.237
+Emilia Romagna Grand Prix,NOR_vs_PIA,NOR,1,MEDIUM,27,-62.15,0.242,82.535
+Emilia Romagna Grand Prix,NOR_vs_PIA,NOR,2,HARD,15,-248.69,0.192,82.93
+Emilia Romagna Grand Prix,NOR_vs_PIA,NOR,3,HARD,10,-111.93,0.609,80.333
+Emilia Romagna Grand Prix,NOR_vs_PIA,PIA,1,MEDIUM,12,-74.76,0.122,82.113
+Emilia Romagna Grand Prix,NOR_vs_PIA,PIA,2,HARD,15,515.21,0.173,78.079
+Emilia Romagna Grand Prix,NOR_vs_PIA,PIA,3,HARD,25,-17.02,0.001,80.956
+Emilia Romagna Grand Prix,NOR_vs_LEC,NOR,1,MEDIUM,27,-62.15,0.242,82.535
+Emilia Romagna Grand Prix,NOR_vs_LEC,NOR,2,HARD,15,-248.69,0.192,82.93
+Emilia Romagna Grand Prix,NOR_vs_LEC,NOR,3,HARD,10,-111.93,0.609,80.333
+Emilia Romagna Grand Prix,NOR_vs_LEC,LEC,1,MEDIUM,9,-488.73,0.345,85.053
+Emilia Romagna Grand Prix,NOR_vs_LEC,LEC,2,HARD,17,41.0,0.077,80.997
+Emilia Romagna Grand Prix,NOR_vs_LEC,LEC,3,HARD,26,10.83,0.001,80.962
+Monaco Grand Prix,NOR_vs_PIA,NOR,1,MEDIUM,15,-443.71,0.651,82.652
+Monaco Grand Prix,NOR_vs_PIA,NOR,2,HARD,29,-17.36,0.031,75.195
+Monaco Grand Prix,NOR_vs_PIA,NOR,3,HARD,27,19.66,0.048,75.213
+Monaco Grand Prix,NOR_vs_PIA,PIA,1,MEDIUM,16,-528.15,0.807,84.05
+Monaco Grand Prix,NOR_vs_PIA,PIA,2,HARD,26,-41.87,0.132,75.718
+Monaco Grand Prix,NOR_vs_PIA,PIA,3,HARD,29,65.3,0.487,74.089
+Monaco Grand Prix,NOR_vs_LEC,NOR,1,MEDIUM,15,-443.71,0.651,82.652
+Monaco Grand Prix,NOR_vs_LEC,NOR,2,HARD,29,-17.36,0.031,75.195
+Monaco Grand Prix,NOR_vs_LEC,NOR,3,HARD,27,19.66,0.048,75.213
+Monaco Grand Prix,NOR_vs_LEC,LEC,1,MEDIUM,18,-397.01,0.745,82.533
+Monaco Grand Prix,NOR_vs_LEC,LEC,2,HARD,25,-40.12,0.168,75.358
+Monaco Grand Prix,NOR_vs_LEC,LEC,3,MEDIUM,28,55.86,0.364,74.437
+Spanish Grand Prix,NOR_vs_PIA,NOR,1,SOFT,20,-38.15,0.066,81.484
+Spanish Grand Prix,NOR_vs_PIA,NOR,2,MEDIUM,25,6.87,0.045,79.858
+Spanish Grand Prix,NOR_vs_PIA,NOR,3,SOFT,5,165.0,0.177,77.067
+Spanish Grand Prix,NOR_vs_PIA,NOR,4,SOFT,6,305.14,0.938,73.325
+Spanish Grand Prix,NOR_vs_PIA,PIA,1,SOFT,21,9.88,0.011,80.737
+Spanish Grand Prix,NOR_vs_PIA,PIA,2,MEDIUM,25,-16.39,0.134,80.128
+Spanish Grand Prix,NOR_vs_PIA,PIA,3,SOFT,4,-395.3,0.837,80.876
+Spanish Grand Prix,NOR_vs_PIA,PIA,4,SOFT,6,339.89,0.985,72.603
+Spanish Grand Prix,NOR_vs_LEC,NOR,1,SOFT,20,-38.15,0.066,81.484
+Spanish Grand Prix,NOR_vs_LEC,NOR,2,MEDIUM,25,6.87,0.045,79.858
+Spanish Grand Prix,NOR_vs_LEC,NOR,3,SOFT,5,165.0,0.177,77.067
+Spanish Grand Prix,NOR_vs_LEC,NOR,4,SOFT,6,305.14,0.938,73.325
+Spanish Grand Prix,NOR_vs_LEC,LEC,1,SOFT,16,-84.66,0.096,82.434
+Spanish Grand Prix,NOR_vs_LEC,LEC,2,MEDIUM,21,42.41,0.293,79.739
+Spanish Grand Prix,NOR_vs_LEC,LEC,3,MEDIUM,13,37.71,0.368,79.313
+Spanish Grand Prix,NOR_vs_LEC,LEC,4,SOFT,6,360.74,0.871,73.906
+Canadian Grand Prix,NOR_vs_PIA,NOR,1,HARD,27,-39.41,0.591,77.187
+Canadian Grand Prix,NOR_vs_PIA,NOR,2,MEDIUM,16,22.52,0.159,74.985
+Canadian Grand Prix,NOR_vs_PIA,NOR,3,HARD,18,-1.55,0.001,74.488
+Canadian Grand Prix,NOR_vs_PIA,PIA,1,MEDIUM,14,22.26,0.069,76.554
+Canadian Grand Prix,NOR_vs_PIA,PIA,2,HARD,27,-21.29,0.296,75.969
+Canadian Grand Prix,NOR_vs_PIA,PIA,3,HARD,20,-14.01,0.043,74.897
+Canadian Grand Prix,NOR_vs_LEC,NOR,1,HARD,27,-39.41,0.591,77.187
+Canadian Grand Prix,NOR_vs_LEC,NOR,2,MEDIUM,16,22.52,0.159,74.985
+Canadian Grand Prix,NOR_vs_LEC,NOR,3,HARD,18,-1.55,0.001,74.488
+Canadian Grand Prix,NOR_vs_LEC,LEC,1,HARD,26,-62.44,0.668,77.607
+Canadian Grand Prix,NOR_vs_LEC,LEC,2,HARD,23,4.17,0.009,75.317
+Canadian Grand Prix,NOR_vs_LEC,LEC,3,MEDIUM,12,62.33,0.176,74.501
+Austrian Grand Prix,NOR_vs_PIA,NOR,1,MEDIUM,16,111.14,0.564,69.04
+Austrian Grand Prix,NOR_vs_PIA,NOR,2,HARD,30,15.72,0.216,69.528
+Austrian Grand Prix,NOR_vs_PIA,NOR,3,MEDIUM,17,47.76,0.293,68.392
+Austrian Grand Prix,NOR_vs_PIA,PIA,1,MEDIUM,20,83.11,0.485,69.327
+Austrian Grand Prix,NOR_vs_PIA,PIA,2,HARD,27,31.15,0.485,69.232
+Austrian Grand Prix,NOR_vs_PIA,PIA,3,MEDIUM,16,111.36,0.565,67.709
+Austrian Grand Prix,NOR_vs_LEC,NOR,1,MEDIUM,16,111.14,0.564,69.04
+Austrian Grand Prix,NOR_vs_LEC,NOR,2,HARD,30,15.72,0.216,69.528
+Austrian Grand Prix,NOR_vs_LEC,NOR,3,MEDIUM,17,47.76,0.293,68.392
+Austrian Grand Prix,NOR_vs_LEC,LEC,1,MEDIUM,21,62.24,0.566,69.92
+Austrian Grand Prix,NOR_vs_LEC,LEC,2,HARD,22,-29.27,0.253,70.232
+Austrian Grand Prix,NOR_vs_LEC,LEC,3,MEDIUM,20,7.07,0.019,69.062
+Hungarian Grand Prix,NOR_vs_PIA,NOR,1,MEDIUM,28,-13.21,0.084,82.442
+Hungarian Grand Prix,NOR_vs_PIA,NOR,2,HARD,38,-8.42,0.067,80.691
+Hungarian Grand Prix,NOR_vs_PIA,PIA,1,MEDIUM,16,-68.3,0.49,82.913
+Hungarian Grand Prix,NOR_vs_PIA,PIA,2,HARD,25,9.22,0.038,81.201
+Hungarian Grand Prix,NOR_vs_PIA,PIA,3,HARD,24,45.6,0.463,79.332
+Hungarian Grand Prix,NOR_vs_LEC,NOR,1,MEDIUM,28,-13.21,0.084,82.442
+Hungarian Grand Prix,NOR_vs_LEC,NOR,2,HARD,38,-8.42,0.067,80.691
+Hungarian Grand Prix,NOR_vs_LEC,LEC,1,MEDIUM,17,-18.14,0.1,82.338
+Hungarian Grand Prix,NOR_vs_LEC,LEC,2,HARD,19,23.02,0.267,81.07
+Hungarian Grand Prix,NOR_vs_LEC,LEC,3,HARD,29,73.52,0.683,80.339
+Dutch Grand Prix,NOR_vs_PIA,NOR,1,MEDIUM,22,-83.78,0.197,76.618
+Dutch Grand Prix,NOR_vs_PIA,NOR,2,HARD,26,-159.38,0.127,78.101
+Dutch Grand Prix,NOR_vs_PIA,NOR,3,HARD,7,-109.68,0.221,73.911
+Dutch Grand Prix,NOR_vs_PIA,PIA,1,MEDIUM,22,-38.11,0.114,75.935
+Dutch Grand Prix,NOR_vs_PIA,PIA,2,HARD,26,-147.92,0.107,77.879
+Dutch Grand Prix,NOR_vs_PIA,PIA,3,HARD,12,34.14,0.005,73.033
+Dutch Grand Prix,NOR_vs_LEC,NOR,1,MEDIUM,22,-83.78,0.197,76.618
+Dutch Grand Prix,NOR_vs_LEC,NOR,2,HARD,26,-159.38,0.127,78.101
+Dutch Grand Prix,NOR_vs_LEC,NOR,3,HARD,7,-109.68,0.221,73.911
+Dutch Grand Prix,NOR_vs_LEC,LEC,1,MEDIUM,21,-56.0,0.075,77.078
+Dutch Grand Prix,NOR_vs_LEC,LEC,2,HARD,25,-147.3,0.109,78.757
+Italian Grand Prix,NOR_vs_PIA,NOR,1,MEDIUM,44,-30.74,0.652,83.837
+Italian Grand Prix,NOR_vs_PIA,NOR,2,SOFT,5,60.3,0.749,80.816
+Italian Grand Prix,NOR_vs_PIA,PIA,1,MEDIUM,42,-47.61,0.82,84.254
+Italian Grand Prix,NOR_vs_PIA,PIA,2,SOFT,7,-86.54,0.057,82.443
+Italian Grand Prix,NOR_vs_LEC,NOR,1,MEDIUM,44,-30.74,0.652,83.837
+Italian Grand Prix,NOR_vs_LEC,NOR,2,SOFT,5,60.3,0.749,80.816
+Italian Grand Prix,NOR_vs_LEC,LEC,1,MEDIUM,31,-65.35,0.891,84.791
+Italian Grand Prix,NOR_vs_LEC,LEC,2,HARD,19,-41.28,0.538,82.433
+Azerbaijan Grand Prix,NOR_vs_PIA,NOR,1,MEDIUM,32,-96.99,0.576,108.252
+Azerbaijan Grand Prix,NOR_vs_PIA,NOR,2,HARD,13,-18.41,0.071,104.965
+Azerbaijan Grand Prix,NOR_vs_LEC,NOR,1,MEDIUM,32,-96.99,0.576,108.252
+Azerbaijan Grand Prix,NOR_vs_LEC,NOR,2,HARD,13,-18.41,0.071,104.965
+Azerbaijan Grand Prix,NOR_vs_LEC,LEC,1,MEDIUM,14,-217.16,0.493,110.184
+Azerbaijan Grand Prix,NOR_vs_LEC,LEC,2,HARD,31,-32.09,0.239,105.876
+Singapore Grand Prix,NOR_vs_PIA,NOR,1,MEDIUM,23,-48.58,0.456,97.979
+Singapore Grand Prix,NOR_vs_PIA,NOR,2,HARD,35,21.97,0.153,95.888
+Singapore Grand Prix,NOR_vs_PIA,PIA,1,MEDIUM,24,-60.45,0.604,98.256
+Singapore Grand Prix,NOR_vs_PIA,PIA,2,HARD,34,20.45,0.117,95.718
+Singapore Grand Prix,NOR_vs_LEC,NOR,1,MEDIUM,23,-48.58,0.456,97.979
+Singapore Grand Prix,NOR_vs_LEC,NOR,2,HARD,35,21.97,0.153,95.888
+Singapore Grand Prix,NOR_vs_LEC,LEC,1,MEDIUM,18,-34.7,0.189,98.191
+Singapore Grand Prix,NOR_vs_LEC,LEC,2,HARD,39,46.29,0.376,95.965
+United States Grand Prix,NOR_vs_PIA,NOR,1,MEDIUM,29,-44.33,0.333,100.913
+United States Grand Prix,NOR_vs_PIA,NOR,2,SOFT,23,2.77,0.001,98.36
+United States Grand Prix,NOR_vs_PIA,PIA,1,MEDIUM,27,-30.74,0.123,101.077
+United States Grand Prix,NOR_vs_PIA,PIA,2,SOFT,25,-24.95,0.368,99.358
+United States Grand Prix,NOR_vs_LEC,NOR,1,MEDIUM,29,-44.33,0.333,100.913
+United States Grand Prix,NOR_vs_LEC,NOR,2,SOFT,23,2.77,0.001,98.36
+United States Grand Prix,NOR_vs_LEC,LEC,1,SOFT,19,-14.35,0.015,100.724
+United States Grand Prix,NOR_vs_LEC,LEC,2,MEDIUM,33,5.32,0.009,98.883
+Mexico City Grand Prix,NOR_vs_PIA,NOR,1,SOFT,33,3.86,0.006,82.565
+Mexico City Grand Prix,NOR_vs_PIA,NOR,2,MEDIUM,34,6.56,0.041,81.412
+Mexico City Grand Prix,NOR_vs_PIA,PIA,1,SOFT,22,-18.4,0.028,83.731
+Mexico City Grand Prix,NOR_vs_PIA,PIA,2,MEDIUM,21,24.65,0.087,82.015
+Mexico City Grand Prix,NOR_vs_PIA,PIA,3,SOFT,21,30.39,0.08,80.608
+Mexico City Grand Prix,NOR_vs_LEC,NOR,1,SOFT,33,3.86,0.006,82.565
+Mexico City Grand Prix,NOR_vs_LEC,NOR,2,MEDIUM,34,6.56,0.041,81.412
+Mexico City Grand Prix,NOR_vs_LEC,LEC,1,SOFT,30,14.58,0.029,82.912
+Mexico City Grand Prix,NOR_vs_LEC,LEC,2,MEDIUM,37,-6.24,0.067,82.124
+São Paulo Grand Prix,NOR_vs_PIA,NOR,1,MEDIUM,23,-18.72,0.03,75.112
+São Paulo Grand Prix,NOR_vs_PIA,NOR,2,SOFT,18,20.21,0.549,74.051
+São Paulo Grand Prix,NOR_vs_PIA,NOR,3,MEDIUM,20,-11.25,0.124,73.68
+São Paulo Grand Prix,NOR_vs_PIA,PIA,1,MEDIUM,31,-24.66,0.052,75.738
+São Paulo Grand Prix,NOR_vs_PIA,PIA,2,SOFT,11,29.95,0.093,73.353
+São Paulo Grand Prix,NOR_vs_PIA,PIA,3,MEDIUM,19,40.98,0.33,72.51
+São Paulo Grand Prix,NOR_vs_LEC,NOR,1,MEDIUM,23,-18.72,0.03,75.112
+São Paulo Grand Prix,NOR_vs_LEC,NOR,2,SOFT,18,20.21,0.549,74.051
+São Paulo Grand Prix,NOR_vs_LEC,NOR,3,MEDIUM,20,-11.25,0.124,73.68
+São Paulo Grand Prix,NOR_vs_LEC,LEC,1,MEDIUM,5,9118.8,0.809,78.328
+Las Vegas Grand Prix,NOR_vs_PIA,NOR,1,MEDIUM,18,-258.14,0.523,100.026
+Las Vegas Grand Prix,NOR_vs_PIA,NOR,2,HARD,27,30.58,0.053,94.683
+Las Vegas Grand Prix,NOR_vs_PIA,PIA,1,MEDIUM,17,-276.89,0.395,100.897
+Las Vegas Grand Prix,NOR_vs_PIA,PIA,2,HARD,28,-49.32,0.679,95.678
+Las Vegas Grand Prix,NOR_vs_LEC,NOR,1,MEDIUM,18,-258.14,0.523,100.026
+Las Vegas Grand Prix,NOR_vs_LEC,NOR,2,HARD,27,30.58,0.053,94.683
+Las Vegas Grand Prix,NOR_vs_LEC,LEC,1,MEDIUM,20,-212.86,0.275,100.235
+Las Vegas Grand Prix,NOR_vs_LEC,LEC,2,HARD,25,-19.54,0.198,95.11
+Qatar Grand Prix,NOR_vs_PIA,NOR,1,MEDIUM,21,-180.06,0.178,89.443
+Qatar Grand Prix,NOR_vs_PIA,NOR,2,MEDIUM,17,-29.41,0.094,85.418
+Qatar Grand Prix,NOR_vs_PIA,NOR,3,HARD,12,38.09,0.171,83.515
+Qatar Grand Prix,NOR_vs_PIA,PIA,1,MEDIUM,20,-143.64,0.13,88.488
+Qatar Grand Prix,NOR_vs_PIA,PIA,2,MEDIUM,16,-59.77,0.264,85.485
+Qatar Grand Prix,NOR_vs_PIA,PIA,3,HARD,14,53.54,0.534,83.034
+Qatar Grand Prix,NOR_vs_LEC,NOR,1,MEDIUM,21,-180.06,0.178,89.443
+Qatar Grand Prix,NOR_vs_LEC,NOR,2,MEDIUM,17,-29.41,0.094,85.418
+Qatar Grand Prix,NOR_vs_LEC,NOR,3,HARD,12,38.09,0.171,83.515
+Qatar Grand Prix,NOR_vs_LEC,LEC,1,MEDIUM,6,-1015.57,0.63,93.103
+Qatar Grand Prix,NOR_vs_LEC,LEC,2,MEDIUM,21,-43.95,0.793,88.051
+Qatar Grand Prix,NOR_vs_LEC,LEC,3,HARD,24,-36.96,0.392,85.615
+Abu Dhabi Grand Prix,NOR_vs_PIA,NOR,1,MEDIUM,14,-8.94,0.059,89.835
+Abu Dhabi Grand Prix,NOR_vs_PIA,NOR,2,HARD,22,-84.59,0.77,89.541
+Abu Dhabi Grand Prix,NOR_vs_PIA,NOR,3,HARD,17,62.54,0.213,86.813
+Abu Dhabi Grand Prix,NOR_vs_PIA,PIA,1,HARD,39,-17.81,0.57,89.786
+Abu Dhabi Grand Prix,NOR_vs_PIA,PIA,2,MEDIUM,11,62.71,0.61,86.961
+Abu Dhabi Grand Prix,NOR_vs_LEC,NOR,1,MEDIUM,14,-8.94,0.059,89.835
+Abu Dhabi Grand Prix,NOR_vs_LEC,NOR,2,HARD,22,-84.59,0.77,89.541
+Abu Dhabi Grand Prix,NOR_vs_LEC,NOR,3,HARD,17,62.54,0.213,86.813
+Abu Dhabi Grand Prix,NOR_vs_LEC,LEC,1,MEDIUM,14,8.0,0.033,89.791
+Abu Dhabi Grand Prix,NOR_vs_LEC,LEC,2,HARD,21,-57.86,0.455,89.382
+Abu Dhabi Grand Prix,NOR_vs_LEC,LEC,3,MEDIUM,18,74.05,0.342,86.502
