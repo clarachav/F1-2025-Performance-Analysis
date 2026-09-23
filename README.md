@@ -6,9 +6,9 @@ This project analyzes Formula 1 performance throughout the 2025 season using Pyt
 
 The objective is to explore race and driver performance through telemetry, tyre degradation, race strategy and championship data, with a focus on comparing:
 
-Lando Norris vs Charles Leclerc — comparison between two different cars
+Lando Norris vs Charles Leclerc comparison between two different cars
 
-Lando Norris vs Oscar Piastri — comparison between teammates in the same McLaren
+Lando Norris vs Oscar Piastri comparison between teammates in the same McLaren
 
 The project combines data analysis, visualization and statistical methods to investigate how driving behaviour, car performance, tyre degradation and race strategy can affect on-track results.
 
