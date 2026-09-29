@@ -76,6 +76,14 @@ Statistical analysis
 
 Bootstrap methods are used to assess the robustness of observed performance differences across race data.
 
+Key Takeaways & Conclusion:
+
+Telemetry & Dynamics: Teammate comparison (Norris vs. Piastri) isolated driver inputs, showing that braking consistency and throttle re-application timing account for most of the lap time delta.
+
+Tyre Degradation: Modeled stint performance decay, identifying distinct degradation curves per compound and confirming optimal pit-stop windows.
+
+Statistical Validation: Applied bootstrap methods to validate that performance gaps are statistically significant rather than noise from track evolution or traffic.
+
 Project Structure
 
 F1-2025-Performance-Analysis/
