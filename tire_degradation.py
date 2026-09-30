@@ -1,4 +1,3 @@
-"""
 F1 2025 — Tire Degradation & Pit Strategy: ALL DRY GPs
 ========================================================
 Comparisons:
@@ -10,7 +9,7 @@ For EVERY dry race in 2025:
   2. Models tire degradation per stint (linear regression)
   3. Simulates 1-stop vs 2-stop strategy
   4. Exports one summary CSV with all GPs
-"""
+
 
 import fastf1
 import matplotlib.pyplot as plt
