@@ -142,4 +142,4 @@ Author
 
 Clara Chavanon
 
-EPF Engineering School — Aerospace Engineering
+EPF Engineering School Aerospace Engineering Student
