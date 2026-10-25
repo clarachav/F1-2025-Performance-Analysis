@@ -31,7 +31,7 @@ warnings.filterwarnings("ignore")
 # ============================================================
 # CONFIG
 # ============================================================
-CACHE_DIR = "./f1_cache"
+CACHE_DIR = os.environ.get("F1_CACHE", "./f1_cache")  # set F1_CACHE to reuse an existing cache folder
 OUT_DIR = "./outputs"
 os.makedirs(CACHE_DIR, exist_ok=True)
 os.makedirs(OUT_DIR, exist_ok=True)
@@ -104,6 +104,28 @@ def bootstrap_slope(x, y):
         slopes[i] = np.polyfit(xs, ys, 1)[0]
     return slopes[~np.isnan(slopes)]
 
+
+# ============================================================
+# PREFLIGHT : load ONE race first, stop clearly if the data API fails
+# ============================================================
+def preflight():
+    try:
+        s = fastf1.get_session(YEAR, 1, "R")
+        s.load(telemetry=False, weather=False, messages=False)
+        n = len(s.laps)
+        print(f"[preflight] OK, {n} laps loaded for round 1")
+        return n > 0
+    except Exception as e:
+        print(f"[preflight] FAILED: {e}")
+        return False
+
+
+if not preflight():
+    raise SystemExit(
+        "\nFastF1 could not download data (see the WARNING lines above).\n"
+        "Check: internet/VPN/firewall, `pip install -U fastf1`, wait a few minutes "
+        "(rate limit), or point F1_CACHE to the folder of your earlier runs."
+    )
 
 # ============================================================
 # MAIN LOOP : load every dry race once
@@ -221,7 +243,7 @@ else:
     print("Details: outputs/bootstrap_degradation_slopes.csv")
 
 print("""
-LIMITS TO MENTION IN THE INTERVIEW
+LIMITS 
 - Consecutive laps are not independent (tyre wear, traffic, strategy), so a
   simple bootstrap can be too optimistic. Improvement: block bootstrap
   (resample whole stints instead of single laps).
